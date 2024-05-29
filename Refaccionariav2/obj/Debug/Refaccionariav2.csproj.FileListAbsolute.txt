@@ -1,0 +1,30 @@
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.exe.config
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.exe
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.pdb
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.Form1.resources
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.exe
+C:\Users\Jonathan\source\repos\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.pdb
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.exe.config
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.exe
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\bin\Debug\Refaccionariav2.pdb
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csprojAssemblyReference.cache
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.Form1.resources
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.Properties.Resources.resources
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.GenerateResource.cache
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.CoreCompileInputs.cache
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.exe
+E:\Rubisa\Desktop\Semestre 2021-2022-l\Administracion de base de datos\SQL SERVER\Proyecto Refaccionaria\Refaccionariav2\Refaccionariav2\Refaccionariav2\obj\Debug\Refaccionariav2.pdb
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\bin\Debug\Refaccionariav2.exe.config
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\bin\Debug\Refaccionariav2.exe
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\bin\Debug\Refaccionariav2.pdb
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.Form1.resources
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.Properties.Resources.resources
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.exe
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.pdb
+C:\Users\jonat\Desktop\Refaccionariav3\Refaccionariav2\obj\Debug\Refaccionariav2.csproj.AssemblyReference.cache
